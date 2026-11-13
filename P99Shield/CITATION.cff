@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "P99Shield: data and reference implementation"
+authors:
+  - family-names: Aruna
+    given-names: K.
+  - family-names: Thiruvengadam
+    given-names: C.
+  - family-names: Padmapriya
+    given-names: S.
+license: MIT
+repository-code: "https://github.com/<username>/P99Shield"

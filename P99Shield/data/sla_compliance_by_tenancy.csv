@@ -1,0 +1,5 @@
+scenario,concurrent_workloads,default_sla_pct,p99shield_sla_pct
+single_tenant_baseline,1,96,99
+multi_tenant,2,84,97
+multi_tenant,4,67,93
+high_density,8,49,88

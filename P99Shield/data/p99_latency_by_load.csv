@@ -1,0 +1,5 @@
+load_condition,utilization,default_p99_ms,p99shield_p99_ms,p99_reduction_pct,p95_reduction_pct
+low,20%,120,98,18,10
+moderate,50%,230,162,30,22
+high,80%,480,278,42,38
+burst,>90%,890,415,53,48
